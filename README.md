@@ -1,8 +1,9 @@
 # brainfuckers
 A simple Brainfuck interpreter
 
-## Usage
+Crate: https://crates.io/crates/brainfuckers
 
+## Usage
 If you supply a filename as the first argument, it will be executed.
 If no filename has been provided, the first line will be considered as code and will be executed.
 
