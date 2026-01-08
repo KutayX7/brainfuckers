@@ -1,0 +1,10 @@
+[package]
+name = "brainfuckers"
+description = "A simple Brainfuck interpreter"
+version = "0.1.0"
+edition = "2024"
+license = "MIT OR Apache-2.0"
+keywords = ["brainfuck", "interpreter", "library"]
+categories = ["command-line-utilities"]
+
+[dependencies]
